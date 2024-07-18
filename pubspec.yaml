@@ -1,7 +1,7 @@
 name: staked_horizontal_bar_chart
-description: "A new Flutter package project."
+description: "a simple stacked horizontal bar chart"
 version: 0.0.1
-homepage:
+repository: https://github.com/stephane-archer/staked_horizontal_bar_chart
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
